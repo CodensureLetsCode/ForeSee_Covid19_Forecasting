@@ -73,7 +73,7 @@ newspaper3k==0.2.8
 nltk==3.5
 nltkdata==0.0.1
 notebook==6.0.2
-numpy==1.18.1
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.2.1
 pandas==1.0.3
